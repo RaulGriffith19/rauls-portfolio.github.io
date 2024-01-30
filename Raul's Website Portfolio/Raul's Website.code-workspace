@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Raul's Website Portfolio",
+			"path": "."
+		},
+		{
+			"name": "Dark mode toggle",
+			"path": "../Dark mode toggle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Raul's Website Portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
